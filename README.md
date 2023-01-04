@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MdRez Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Rezaul Chowdhury</h1>
 <h3 align="center">I am a full-stack javascript developer located in London, UK. I am very passionate about software engineering. I like to meet new people and create new ideas.</h3>
 
 - 🔭 I’m currently working on [general forum](http://generalforum.herokuapp.com/)
